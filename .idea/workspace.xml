@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ed61e64-e2d0-481d-82c7-c9771f8997f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kb3AYwmrwLrBJOJFEiPgGrUDRX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Downloads/TaIFya" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Practice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Practice" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ed61e64-e2d0-481d-82c7-c9771f8997f5" name="Default Changelist" comment="" />
+      <created>1605955320182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605955320182</updated>
+      <workItem from="1605955327037" duration="653000" />
+      <workItem from="1605956092300" duration="3702000" />
+      <workItem from="1606036300249" duration="1421000" />
+      <workItem from="1606063548095" duration="157000" />
+      <workItem from="1606065230743" duration="1296000" />
+      <workItem from="1606237604578" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1377" y="546" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607959535188">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1377" y="546" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1607959535188" />
+    <state x="2087" y="479" key="FileChooserDialogImpl" timestamp="1607959674456">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2087" y="479" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1607959674456" />
+    <state width="1063" height="190" key="GridCell.Tab.0.bottom" timestamp="1607959858043">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1063" height="190" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1607959858043" />
+    <state width="1063" height="190" key="GridCell.Tab.0.center" timestamp="1607959858043">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1063" height="190" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1607959858043" />
+    <state width="1063" height="190" key="GridCell.Tab.0.left" timestamp="1607959858043">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1063" height="190" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1607959858043" />
+    <state width="1063" height="190" key="GridCell.Tab.0.right" timestamp="1607959858043">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1063" height="190" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1607959858043" />
+    <state x="2161" y="421" key="SettingsEditor" timestamp="1607958626011">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2161" y="421" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1607958626011" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((byte[])((CodePoint8BitCharStream)lexer._tokenFactorySourcePair.b).byteArray)[8]" language="JAVA" custom="org.antlr.v4.runtime.CodePointCharStream.CodePoint8BitCharStream,byte[]" />
+        <watch expression="((byte[])((CodePoint8BitCharStream)lexer._tokenFactorySourcePair.b).byteArray)[8]" language="JAVA" custom="org.antlr.v4.runtime.CodePointCharStream.CodePoint8BitCharStream,byte[]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
